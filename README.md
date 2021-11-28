@@ -29,7 +29,7 @@ Hadoop、HDFS、Spark、SpringBoot、echarts、PySpark、Python、MySQL
 
 可二次开发选加推荐算法(协同过滤算法等或者调用SparkML库)
 
-
+![](/项目包含全部资料截图.png)
 
 
 
