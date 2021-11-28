@@ -47,7 +47,7 @@ Hadoop、HDFS、Spark、SpringBoot、echarts、PySpark、Python、MySQL
 在前端子系统中的数据明细查询功能中读取到MySQL数据库中的数据分析结果，
 最后生成Echarts图表展示给用户，大数据招聘信息智能分析平台的工作流程如下图所示。
 
-![](F:\bysj2022\Python+Spark招聘爬虫数据分析可视化\基于Spark职位分析系统-流程图.jpg)
+![](/基于Spark职位分析系统-流程图.jpg)
 
 
 
@@ -55,15 +55,15 @@ Hadoop、HDFS、Spark、SpringBoot、echarts、PySpark、Python、MySQL
 
 # 运行截图
 
-![](F:\bysj2022\Python+Spark招聘爬虫数据分析可视化\QQ截图20211127023053.png)
+![](/QQ截图20211127023053.png)
 
-![QQ截图20211127023125](F:\bysj2022\Python+Spark招聘爬虫数据分析可视化\QQ截图20211127023125.png)
+![/QQ截图20211127023125.png)
 
-![QQ截图20211127023138](F:\bysj2022\Python+Spark招聘爬虫数据分析可视化\QQ截图20211127023138.png)
+![/QQ截图20211127023138.png)
 
 ![基于Spark职位分析系统-流程图](F:\bysj2022\Python+Spark招聘爬虫数据分析可视化\基于Spark职位分析系统-流程图.jpg)
 
-![图片1](F:\bysj2022\Python+Spark招聘爬虫数据分析可视化\图片1.png)
+![图片1](/图片1.png)
 
 
 
